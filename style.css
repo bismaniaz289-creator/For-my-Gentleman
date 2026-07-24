@@ -1,0 +1,5 @@
+
+body{background:#14060a;color:white;text-align:center;font-family:Georgia;}
+.page{max-width:900px;margin:30px auto;padding:25px;background:rgba(255,255,255,.08);border-radius:25px;}
+.photo{width:70%;border-radius:20px;}
+button{padding:14px 28px;border-radius:30px;font-size:18px;}
